@@ -185,3 +185,8 @@ This library can simplify user code with following functions:
   
     10. Function toggleSettings smooth change of dimming value up or down in a defined range
         Example located in \RBDdimmer\examples\SimpleToggleDimmer
+
+<strong>Note:</strong>   
+        This Library was forked from RobotDynOfficial/RBDDimmer
+        Changes made to lookup table to represent curve fit on actual sinusoidal waveform data 
+        instead of linear approximation of original library. Should be more accurate... 
